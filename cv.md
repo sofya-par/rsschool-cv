@@ -25,3 +25,4 @@ Skills:
 -
 * Git/GitHub
 
+https://github.com/sofya-par/rsschool-cv
