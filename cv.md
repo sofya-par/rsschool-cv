@@ -5,7 +5,8 @@ My Contact Info:
 * Phone: +375 33 390-13-14
 * E-mail: parsofik@gamil.com
 * GitHub: sofya-par
-* Telegram: @sof_a4kka
+* Telegram: sof_a4kka
+* Discord: sof.a4kka
 
  About me:
  -
@@ -19,3 +20,8 @@ Languages:
 Education:
 -
 * Java Script in process
+
+Skills:
+-
+* Git/GitHub
+
