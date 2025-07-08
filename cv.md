@@ -16,3 +16,18 @@ My Contact Info:
 
 git commit -m "init:"
 
+
+Languages:
+-
+* Russian- native speaker.
+* a little English
+
+Education:
+-
+* Java Script in process
+
+Skills:
+-
+* Git/GitHub
+
+https://github.com/sofya-par/rsschool-cv
