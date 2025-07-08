@@ -1,3 +1,3 @@
 I am Sofya Parkhomenko
 =
-git commit -m "init:"
+git commit-m "init:"
