@@ -1,6 +1,5 @@
 I am Sofya Parkhomenko
 =
-git add
 git commit -m "init:"
 
 My Contact Info:
