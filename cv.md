@@ -1,29 +1,85 @@
-I am Sofya Parkhomenko
-=
-My Contact Info:
--
-* Phone: +375 33 390-13-14
-* E-mail: parsofik@gamil.com
-* GitHub: sofya-par
-* Telegram: sof_a4kka
-* Discord: sof.a4kka
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>cv</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon" href="assets/favicon.ico" />
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500;700&display=swap" rel="stylesheet">
+<img src="f:\Фотки\COHЯ\Соня (ретушь)\IMG_6852.jpg" alt="avatar" />
+</head>
+<body> 
 
- About me:
- -
- I am 15 years old. I finished 9th grade and am moving up to 10th. I am here to broaden my horizons and learn something new.
+   <header>
+      
+<nav class="nav">
+  <ul class="nav-list">
+    <li class="nav-item"><a href="#my-contact-info" class="nav-link">My contact info</a></li>
+    <li class="nav-item"><a href="#about me" class="nav-link">About me</a></li>
+    <li class="nav-item"><a href="#languages" class="nav-link">Languages</a></li>
+    <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+    <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+  </ul>
+</nav>
+   </header> 
 
+   <main>
 
-Languages:
--
-* Russian- native speaker.
-* a little English
+<section class="section" h1="profile"></section>
+<section class="section" h2="contacts"></section>
+<section class="section" h3="summary"></section>
+<section class="section" h4="skills"></section>
+<section class="section" h5="code"></section>
+<section class="section" h6="courses"></section>
+<section class="section" h7="projects"></section>
+<section class="section" h8="education"></section>
+<section class="section" h9="languages"></section>
 
-Education:
--
-* Java Script in process
+   </main>
 
-Skills:
--
-* Git/GitHub
+   <footer>
 
-https://github.com/sofya-par/rsschool-cv
+   </footer>
+
+</body>
+
+<body>
+<h1 id="i-am-sofya-parkhomenko">I am Sofya Parkhomenko</h1>
+<h2 id="my-contact-info">My Contact Info:</h2>
+<ul>
+<li>Phone: +375 33 390-13-14</li>
+<li>E-mail: parsofik@gamil.com</li>
+<li>GitHub: sofya-par</li>
+<li>Telegram: sof_a4kka</li>
+<li>Discord: sof.a4kka</li>
+</ul>
+<table>
+<thead>
+<tr class="header">
+<h2 id="about me">About me:</h2>
+<ul>
+<tr class="odd">
+<td>I am 15 years old. I finished 9th grade and am moving up to 10th. I
+am here to broaden my horizons and learn something new.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="languages">Languages:</h2>
+<ul>
+<li>Russian- native speaker.</li>
+<li>a little English</li>
+</ul>
+<h2 id="education">Education:</h2>
+<ul>
+<li>Java Script in process</li>
+</ul>
+<h2 id="skills">Skills:</h2>
+<ul>
+<li>Git/GitHub</li>
+</ul>
+<p>https://github.com/sofya-par/rsschool-cv</p>
+</body>
+<img src="c:\Users\User\Desktop\rsschool-cv\rs-school-logo.svg" alt="avatar" />
+</html>
