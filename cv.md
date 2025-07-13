@@ -1,8 +1,5 @@
 I am Sofya Parkhomenko
 =
-git add
-git commit -m "init:"
-
 My Contact Info:
 -
 * Phone: +375 33 390-13-14
@@ -14,8 +11,6 @@ My Contact Info:
  About me:
  -
  I am 15 years old. I finished 9th grade and am moving up to 10th. I am here to broaden my horizons and learn something new.
-
-git commit -m "init:"
 
 
 Languages:
@@ -33,4 +28,3 @@ Skills:
 
 https://github.com/sofya-par/rsschool-cv
 
-git commit -m "docs:"
